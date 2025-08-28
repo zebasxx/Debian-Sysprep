@@ -1,0 +1,1 @@
+auto=true priority=critical url=http://192.168.122.1/preseed.cfg
